@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranshul Sardana  
+# 👋 Hi, I'm Pranshul Sardana
 
 I'm a **Computer Vision Scientist** with 5+ years in **Deep Learning and MLOps**. Specialized in neural architecture search, one-shot architectures for grounded, human-in-the-loop validation, and sim-to-real domain adaptation for scalable visual data pipelines.
 
