@@ -37,5 +37,4 @@ I am open to **technical collaborations and new opportunities** architecting app
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/pranshulsardana/)  
 * 📝 [Google Scholar](https://scholar.google.com/citations?hl=en&user=o5ij5QgAAAAJ&view_op=list_works&sortby=pubdate/)
-* 🚀 [AnnotateDx](Insert Link Here)
 * 📧 Email: pranshulsardana2020@gmail.com
