@@ -8,7 +8,7 @@ My work spans:
 * 🛠 **Data Pipelines**: Algorithm-assisted annotation workflows and scalable dataset pipelines  
 * 🌉 **Synthetic-to-Real Transfer**: Domain adaptation and generative AI for bridging dataset gaps  
 
-I'm passionate about **turning cutting-edge research into deployable solutions**, especially for scientific imaging, digital pathology, and clinical AI.
+I'm passionate about **turning cutting-edge research into deployable solutions**.
 
 ---
 
